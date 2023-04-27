@@ -681,7 +681,7 @@ def api3(ids,names,passlist):
                                 "Accept-Encoding": "gzip, deflate",
 "Accept": "*/*",
 "Connection": "keep-alive",
-"User-Agent": Mozilla/5.0 (Windows NT 6.1; WOW64; rv:33.0) Gecko/20120101 Firefox/33.0,
+"User-Agent": ua ,      	
 "Authorization": "OAuth 350685531728|62f8ce9f74b12f84c123cc23437a4a32",
 "X-FB-Friendly-Name": "authenticate",
 "X-FB-Connection-Type": "unknown",
